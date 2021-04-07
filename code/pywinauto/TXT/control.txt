@@ -1,0 +1,8 @@
+Control Identifiers:
+
+Dialog - 'AnyTXT Searcher 1.2 출롤경'    (L90, T340, R689, B979)
+['Dialog', 'AnyTXT Searcher 1.2 출롤경Dialog', 'AnyTXT Searcher 1.2 출롤경']
+child_window(title="AnyTXT Searcher 1.2 출롤경", control_type="Window")
+   | 
+   | TitleBar - ''    (L119, T348, R681, B370)
+   | ['TitleBar']
