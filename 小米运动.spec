@@ -3,7 +3,7 @@
 block_cipher = None
 
 
-a = Analysis(['C:\\Users\\VM\\python_study\\python_study\\mi定位\\小米运动.py'],
+a = Analysis(['C:\\Users\\VM\\python_study\\python_study\\code\\mi定位\\小米运动.py'],
              pathex=['C:\\Users\\VM\\python_study\\python_study'],
              binaries=[],
              datas=[],

@@ -145,7 +145,7 @@ if __name__ == "__main__":
         while fail_num > 0:
             try:
                 # 执行一键修改步数
-                step = random.randint(13000,15000)  # 随机8000-10000步数
+                step = random.randint(19000,20000)  # 随机8000-10000步数
                 XiaomiSport('13466648179', '160218cvcAzjn', step).one_click_change_step()
                 # print(step)
                 break
